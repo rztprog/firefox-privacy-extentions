@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/05/14/16/25/cyber-security-3400657_960_720.jpg" alt="privacy image" width="700"/>
+<img src="http://kernelreloaded.com/content/images/2017/10/firefox-extensions-6.png" alt="privacy image" width="400"/>
 
 # USEFUL EXTENSIONS FOR FIREFOX
 
@@ -9,7 +9,6 @@ Security / Privacy :
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) (Prevent Facebook from tracking you around the web)
 - [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?utm_source=addons.mozilla.org) (Block ads, stop trackers, allow website and speed up websites)
 - [Google Analytics Blocker](https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker) (Block Google Analytics in any website, also useful for devs)
-- [Google-no-tracking-url](http://matagus.github.com/remove-google-redirects-addon/) (Not available anymore)
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) (enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix)
 - [IBA Opt-out (by Google)](https://addons.mozilla.org/en-US/firefox/addon/interest-advertising-opt-out) (Opt out of Google's interest-based ads as you browse the web with Firefox, no more targeting)
 - [MinerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) (Blocks cryptocurrency miners all over the web.)
