@@ -1,6 +1,6 @@
 <img src="http://kernelreloaded.com/content/images/2017/10/firefox-extensions-6.png" alt="privacy image" width="400"/>
 
-# USEFUL EXTENSIONS FOR FIREFOX
+# FIREFOX USEFUL EXTENSIONS
 
 ## Firefox-extentions (Several extensions for many usages)
 
