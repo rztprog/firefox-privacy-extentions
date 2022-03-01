@@ -18,6 +18,7 @@ Security / Privacy :
 Useful :
 * [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
 * [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
+* [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/) (Returns ability to see dislike statistics on youtube)
 
 Dev :
 * [Clear Cache (F9)](https://addons.mozilla.org/en-US/firefox/addon/clearcache/) (Clear browser cache with a single click or via the F9 key)
