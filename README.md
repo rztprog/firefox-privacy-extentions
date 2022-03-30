@@ -15,6 +15,7 @@ Security / Privacy :
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) (Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger automatically discovers trackers based on their behavior)
 - [Random User-Agent](https://addons.mozilla.org/en-US/firefox/addon/random_user-agent) (Automatically change the user agent after specified period of time to a randomly selected one, thus hiding your real user agent)
 - [ClearURLS](https://addons.mozilla.org/fr/firefox/addon/clearurls/) (Removes tracking items from URLs)
+- [CanvasBlocker](https://addons.mozilla.org/fr/firefox/addon/canvasblocker/) (Alters some JS APIs to prevent fingerprinting)
 
 Useful :
 * [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
