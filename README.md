@@ -20,9 +20,10 @@ Before you install anything, I advise you to visit the open-source test project 
 - [Smart Referer](https://addons.mozilla.org/fr/firefox/addon/smart-referer/) (Improve your privacy by limiting Referer information leak!)
 
 ## 🔵 Useful :
-* [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
-* [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
-* [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/) (Returns ability to see dislike statistics on youtube)
+- [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
+- [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
+- [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/) (Returns ability to see dislike statistics on youtube)
+- [Minimal Theme for Twitter](https://addons.mozilla.org/fr/firefox/addon/minimaltwitter) (Declutter the Twitter web experience)
 
 ## 🔴 No longer needed :
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) REPLACE WITH (BROWSER INSIDE) [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (dFPI) or FPI
