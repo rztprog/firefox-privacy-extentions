@@ -2,6 +2,8 @@
 
 # FIREFOX USEFUL EXTENSIONS
 
+Before you install anything, I advise you to visit the open-source test project of each web browser privacy at https://privacytests.org/private.html
+
 ## Firefox-extentions (Several extensions for many usages)
 
 Security / Privacy :
