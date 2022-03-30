@@ -1,4 +1,6 @@
-<img src="https://blog.mozilla.org/firefox/files/2018/08/SP_Mozorg_BlogHeader_PrivacyExt-02-1400x700.png" alt="privacy image" />
+<p align="center">
+  <img src="https://blog.mozilla.org/firefox/files/2018/08/SP_Mozorg_BlogHeader_PrivacyExt-02-1400x700.png" alt="Privacy firefox image" width="900"/>
+</p>
 
 # FIREFOX PRIVACY EXTENSIONS
 
