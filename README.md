@@ -18,6 +18,7 @@ Security / Privacy :
 - [Random User-Agent](https://addons.mozilla.org/en-US/firefox/addon/random_user-agent) (Automatically change the user agent after specified period of time to a randomly selected one, thus hiding your real user agent)
 - [ClearURLS](https://addons.mozilla.org/fr/firefox/addon/clearurls/) (Removes tracking items from URLs)
 - [CanvasBlocker](https://addons.mozilla.org/fr/firefox/addon/canvasblocker/) (Alters some JS APIs to prevent fingerprinting)
+- [Smart Referer](https://addons.mozilla.org/fr/firefox/addon/smart-referer/) (Improve your privacy by limiting Referer information leak!)
 
 Useful :
 * [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
