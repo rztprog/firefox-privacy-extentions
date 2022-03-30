@@ -4,9 +4,7 @@
 
 Before you install anything, I advise you to visit the open-source test project of each web browser privacy at https://privacytests.org/private.html
 
-## Firefox-extentions (Several extensions for many usages)
-
-Security / Privacy :
+## Security / Privacy :
 - [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) (Privacy protection and see privacy practices with a privacy grade)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) (Prevent Facebook from tracking you around the web)
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin) (Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.)
@@ -24,7 +22,7 @@ No longer needed :
 - [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?utm_source=addons.mozilla.org) REPLACE WITH [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin)
 
 
-Useful :
+## Useful :
 * [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
 * [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
 * [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/) (Returns ability to see dislike statistics on youtube)
