@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://blog.mozilla.org/firefox/files/2018/08/SP_Mozorg_BlogHeader_PrivacyExt-02-1400x700.png" alt="Privacy firefox image" width="900"/>
 </p>
+<p align="center">Last updated : 03 / 31 / 2022</p>
 
 # FIREFOX PRIVACY EXTENSIONS
 
