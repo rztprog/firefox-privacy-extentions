@@ -1,4 +1,4 @@
-<img src="http://kernelreloaded.com/content/images/2017/10/firefox-extensions-6.png" alt="privacy image" width="400"/>
+<img src="https://blog.mozilla.org/firefox/files/2018/08/SP_Mozorg_BlogHeader_PrivacyExt-02-1400x700.png" alt="privacy image" />
 
 # FIREFOX PRIVACY EXTENSIONS
 
