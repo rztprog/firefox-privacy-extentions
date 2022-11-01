@@ -6,6 +6,7 @@
 # FIREFOX PRIVACY EXTENSIONS
 
 Before you install anything, I advise you to visit the open-source test project of each web browser privacy at https://privacytests.org/
+Don't forget, each add-on is a new potential source of security vulnerabilities and may make you stand out.
 
 ## 🟢 Security / Privacy :
 - [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) (Privacy protection and see privacy practices with a privacy grade)
