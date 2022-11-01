@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.mozilla.org/firefox/files/2018/08/SP_Mozorg_BlogHeader_PrivacyExt-02-1400x700.png" alt="Privacy firefox image" width="900"/>
+  <img src="https://149425180.v2.pressablecdn.com/wp-content/uploads/2019/01/privacy-firefox-extensions.jpg" alt="Privacy firefox image" width="900"/>
 </p>
 <p align="center">Last updated : 2022 / 03 / 31</p>
 
@@ -19,6 +19,7 @@ Before you install anything, I advise you to visit the open-source test project 
 - [ClearURLS](https://addons.mozilla.org/fr/firefox/addon/clearurls/) (Removes tracking items from URLs)
 - [CanvasBlocker](https://addons.mozilla.org/fr/firefox/addon/canvasblocker/) (Alters some JS APIs to prevent fingerprinting)
 - [Smart Referer](https://addons.mozilla.org/fr/firefox/addon/smart-referer/) (Improve your privacy by limiting Referer information leak!)
+- [JShelter](https://addons.mozilla.org/fr/firefox/addon/javascript-restrictor/) (JShelter controls the APIs provided by the browser)
 
 ## 🔵 Useful :
 - [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
