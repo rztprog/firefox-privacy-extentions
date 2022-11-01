@@ -3,8 +3,6 @@
 </p>
 <p align="center">Last updated : 2022 / 01 / 11</p>
 
-https://user-images.githubusercontent.com/45171753/199282077-14b13515-68b8-4fba-a265-537757557b61.png
-
 # FIREFOX PRIVACY EXTENSIONS
 
 Before you install anything, I advise you to visit the open-source test project of each web browser privacy at https://privacytests.org/
