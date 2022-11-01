@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://149425180.v2.pressablecdn.com/wp-content/uploads/2019/01/privacy-firefox-extensions.jpg" alt="Privacy firefox image" width="900"/>
 </p>
-<p align="center">Last updated : 2022 / 03 / 31</p>
+<p align="center">Last updated : 2022 / 01 / 11</p>
 
 # FIREFOX PRIVACY EXTENSIONS
 
