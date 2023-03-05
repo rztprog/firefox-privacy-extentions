@@ -29,6 +29,6 @@ Don't forget, each add-on is a new potential source of security vulnerabilities 
 - [Minimal Theme for Twitter](https://addons.mozilla.org/fr/firefox/addon/minimaltwitter) (Declutter the Twitter web experience)
 
 ## 🔴 No longer needed :
-- [MinerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) REPLACE WITH [BLOG ARTICLE](https://blog.mozilla.org/en/products/firefox/bloquez-les-cryptominers-avec-firefox/)
+- [MinerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) REPLACE WITH [Let Firefox help you block cryptominers](https://blog.mozilla.org/en/products/firefox/bloquez-les-cryptominers-avec-firefox/)
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) REPLACE WITH [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (dFPI) or FPI
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) REPLACE WITH [HTTPS-Only Mode](https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/) and scheduled for deprecation
