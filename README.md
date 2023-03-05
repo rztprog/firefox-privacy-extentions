@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45171753/199282077-14b13515-68b8-4fba-a265-537757557b61.png" alt="Privacy firefox image" width="900"/>
 </p>
-<p align="center">Last updated : 2022 / 01 / 11</p>
+<p align="center">Last updated : 2023 / 03 / 05</p>
 
 # FIREFOX PRIVACY EXTENSIONS
 
@@ -16,7 +16,6 @@ Don't forget, each add-on is a new potential source of security vulnerabilities 
 - [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?utm_source=addons.mozilla.org) (Block ads, stop trackers and speed up websites)
 - [Google Analytics Blocker](https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker) (Block Google Analytics in any website, also useful for devs)
 - [IBA Opt-out (by Google)](https://addons.mozilla.org/en-US/firefox/addon/interest-advertising-opt-out) (Opt out of Google's interest-based ads as you browse the web with Firefox, no more targeting)
-- [MinerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) (Blocks cryptocurrency miners all over the web.)
 - [Random User-Agent](https://addons.mozilla.org/en-US/firefox/addon/random_user-agent) (Automatically change the user agent after specified period of time to a randomly selected one, thus hiding your real user agent)
 - [ClearURLS](https://addons.mozilla.org/fr/firefox/addon/clearurls/) (Removes tracking items from URLs)
 - [CanvasBlocker](https://addons.mozilla.org/fr/firefox/addon/canvasblocker/) (Alters some JS APIs to prevent fingerprinting)
@@ -30,5 +29,6 @@ Don't forget, each add-on is a new potential source of security vulnerabilities 
 - [Minimal Theme for Twitter](https://addons.mozilla.org/fr/firefox/addon/minimaltwitter) (Declutter the Twitter web experience)
 
 ## 🔴 No longer needed :
-- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) REPLACE WITH (BROWSER INSIDE) [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (dFPI) or FPI
-- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) REPLACE WITH (BROWSER INSIDE) [HTTPS-Only Mode](https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/) and scheduled for deprecation
+- [MinerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) REPLACE WITH [BLOG ARTICLE](https://blog.mozilla.org/en/products/firefox/bloquez-les-cryptominers-avec-firefox/)
+- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) REPLACE WITH [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (dFPI) or FPI
+- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) REPLACE WITH [HTTPS-Only Mode](https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/) and scheduled for deprecation
