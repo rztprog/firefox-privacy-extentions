@@ -23,9 +23,11 @@ Don't forget, each add-on is a new potential source of security vulnerabilities 
 - [JShelter](https://addons.mozilla.org/fr/firefox/addon/javascript-restrictor/) (JShelter controls the APIs provided by the browser)
 
 ## 🔵 Useful :
+- [Outlook Web Plus](https://addons.mozilla.org/fr/firefox/addon/outlook-web-plus/) (Remove ads and enhance Outlook web mailbox)
 - [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
 - [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/) (Returns ability to see dislike statistics on youtube)
+- [Hide Youtube-Shorts](https://addons.mozilla.org/en-US/firefox/addon/hide-youtube-shorts/) (Hides YouTube-shorts videos from home page, subscriptions, search)
 - [Minimal Theme for Twitter](https://addons.mozilla.org/fr/firefox/addon/minimaltwitter) (Declutter the Twitter web experience)
 
 ## 🔴 No longer needed :
