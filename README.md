@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45171753/199282077-14b13515-68b8-4fba-a265-537757557b61.png" alt="Privacy firefox image" width="900"/>
+  <img src="https://github.com/rztprog/Firefox-privacy-extentions/assets/45171753/33e6b0f2-7cff-45a2-a054-8efb1b9e476a" alt="Privacy firefox image" width="900"/>
 </p>
 <p align="center">Last updated : 2023 / 12 / 01</p>
 
