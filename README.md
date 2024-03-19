@@ -14,6 +14,8 @@ Don't forget, each add-on is a new potential source of security vulnerabilities 
 If you want to go further, you can check out my other project complementary to this one, which focuses on [DNS PRIVACY SETTINGS](https://github.com/rztprog/Dns-privacy-settings)
 
 ## 🟢 Security / Privacy :
+  🧩 [Full Collection HERE](https://addons.mozilla.org/fr/firefox/collections/17444166/privacy-extensions/)
+
 - [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) (Privacy protection and see privacy practices with a privacy grade)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) (Prevent Facebook from tracking you around the web)
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin) (Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.)
@@ -25,6 +27,8 @@ If you want to go further, you can check out my other project complementary to t
 - [JShelter](https://addons.mozilla.org/fr/firefox/addon/javascript-restrictor/) (JShelter controls the APIs provided by the browser)
 
 ## 🔵 Useful :
+  🧩 [Full Collection HERE](https://addons.mozilla.org/fr/firefox/collections/17444166/Useful-extensions)
+  
 - [Outlook Web Plus](https://addons.mozilla.org/fr/firefox/addon/outlook-web-plus/) (Remove ads and enhance Outlook web mailbox)
 - [SponsorBlock (Youtube)](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) (Easily skip YouTube video sponsors)
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives)
